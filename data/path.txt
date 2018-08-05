@@ -1,0 +1,10 @@
+
+
+
+
+
+
+input_path = "C:\\Users\\xfanu\\Desktop\\MineCos\\recomm3\\yanbuhuli.csv"
+dict_path = "C:\\Users\\xfanu\\Desktop\\MineCos\\recomm3\\yanbuhuli_ingredient.dict"
+corpus_path = "C:\\Users\\xfanu\\Desktop\\MineCos\\recomm3\\yanbuhuli_corpus.mm"
+finalmatrix_path ="C:\\Users\\xfanu\\Desktop\\MineCos\\recomm3\\yanbuhuli\\final_matrix.csv"
